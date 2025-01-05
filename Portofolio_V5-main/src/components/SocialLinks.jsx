@@ -4,7 +4,6 @@ import {
   Github,
   Instagram,
   Youtube,
-  ExternalLink
 } from "lucide-react";
 
 const socialLinks = [
