@@ -78,7 +78,7 @@ const TYPING_SPEED = 100;
 const ERASING_SPEED = 50;
 const PAUSE_DURATION = 2000;
 const WORDS = ["Computer Science Undergradute", "Microsoft Learn Student Ambassador" , "Tech Enthusiast"];
-const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
+const TECH_STACK = ["HTML" , "CSS" , React", "Javascript", "Node.js", "Tailwind"];
 const SOCIAL_LINKS = [
   { icon: Github, link: "https://github.com/EkiZR" },
   { icon: Linkedin, link: "https://www.linkedin.com/in/ekizr/" },
